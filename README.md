@@ -64,7 +64,7 @@ git clone https://github.com/your-username/card-search-app.git
 
 ## 🌐 Live Demo
 
-[🔗 View it live on Netlify](https://your-app-name.netlify.app)
+[🔗 View it live on Netlify]([https://your-app-name.netlify.app](https://aesthetic-card-searcher.netlify.app/))
 
 ---
 
